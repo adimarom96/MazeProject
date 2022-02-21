@@ -1,4 +1,5 @@
 A Maze porject splited to 3 parts.
+
 Part A
 
 Genrate a "legal" maze using DFS algorithms which include entry and exit with a given size by the user.
