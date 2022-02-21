@@ -1,6 +1,6 @@
 A Maze porject splited to 3 parts.
 Part A
-Genrate a "legal maze using DFS algorithms which include entry and exit with a given size by the user.
+Genrate a "legal" maze using DFS algorithms which include entry and exit with a given size by the user.
 Moudle the maze to a search problem and implent the soltuion of the maze as 3 diffrent search algorithms:
  - BreadthFirstSearch
  - DepthFirstSearch
