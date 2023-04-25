@@ -17,7 +17,7 @@ Using 2 diffrent compresse method while sending mazes between client - server.
 Part C
 
 Using javaFX to create a GUI. Desgin based Corona Vairus theme.
-using MVVM architecturaL pattren to implent the functionlty betwen the Mode - View Model -Model layer where 
+using MVVM architectura pattren to implent the functionlty betwen the Mode - View Model - Model layer where 
 each layer handaling its own responsilty and using Obesserver DP.
 Adding sound to the game.
 Adding Timer and save the fastest player, display the top rank players on the open screen.
